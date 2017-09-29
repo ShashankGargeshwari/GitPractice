@@ -6,7 +6,8 @@
 package gittutorial;
 
 /**
- *
+ * // Used to learn Git Concepts
+ * First check to see whether a file is automatically marked as changeed by Git
  * @author shashank
  */
 public class GitTutorial {

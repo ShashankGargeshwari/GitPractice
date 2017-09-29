@@ -1,0 +1,3 @@
+# Contains patterns of files that Git should ignore
+
+*~ # Ignore temporary files, like the ones used by Emacs
